@@ -1,0 +1,27 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 400px;
+}
+
+h1 {
+  color: #1e293b;
+  font-family: Roboto;
+}
+
+p {
+  font-family: Roboto;
+  color: #64748b;
+}
+
+.image-list {
+  display: flex;
+  list-style: none;
+}
+.bigImage {
+  width: 500px;
+  height: 350px;
+}
